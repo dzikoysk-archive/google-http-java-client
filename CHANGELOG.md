@@ -1,5 +1,17 @@
 # Changelog
 
+## [1.41.0](https://www.github.com/googleapis/google-http-java-client/compare/v1.40.1...v1.41.0) (2021-10-27)
+
+
+### Features
+
+* next release from main branch is 1.41.0 ([#1478](https://www.github.com/googleapis/google-http-java-client/issues/1478)) ([3ad4831](https://www.github.com/googleapis/google-http-java-client/commit/3ad4831da00579f534ff7eb7de3a0386068902ba))
+
+
+### Bug Fixes
+
+* **java:** java 17 dependency arguments ([#1266](https://www.github.com/googleapis/google-http-java-client/issues/1266)) ([#1489](https://www.github.com/googleapis/google-http-java-client/issues/1489)) ([4a26e18](https://www.github.com/googleapis/google-http-java-client/commit/4a26e1881075a4f361ec746c2444111c911a8d9f))
+
 ### [1.40.1](https://www.github.com/googleapis/google-http-java-client/compare/v1.40.0...v1.40.1) (2021-10-07)
 
 
